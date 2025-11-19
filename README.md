@@ -140,4 +140,79 @@
 <li>Use command palette → <strong>Generate Unit Tests</strong>.</li>
 <li>Copilot creates test cases to improve reliability.</li>
 </ul>
+<h1 id="summary-set-up-configure-and-troubleshoot-github-copilot">Summary: Set up, configure, and troubleshoot GitHub Copilot</h1>
+<h2 id="sign-up-for-github-copilot">Sign up for GitHub Copilot</h2>
+<ul>
+<li>Go to <strong>GitHub → Settings → Copilot</strong> (under <em>Code, planning, and automation</em>).</li>
+<li>Start a <strong>free trial</strong> or <strong>subscription</strong>.</li>
+<li>Install the GitHub Copilot extension for your preferred environment:
+<ul>
+<li><a href="http://GitHub.com">GitHub.com</a> (no extension needed)</li>
+<li>VS Code</li>
+<li>Visual Studio</li>
+<li>JetBrains IDEs</li>
+<li>Neovim</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>This module focuses on <strong>VS Code setup</strong>.</p>
+</blockquote>
+<h2 id="configure-github-copilot-in-vs-code">Configure GitHub Copilot in VS Code</h2>
+<h3 id="add-the-github-copilot-extension">Add the GitHub Copilot extension</h3>
+<ol>
+<li>Open the <strong>GitHub Copilot</strong> page in Visual Studio Marketplace.</li>
+<li>Select <strong>Install</strong> → open in <strong>VS Code</strong>.</li>
+<li>In VS Code, select <strong>Install</strong> on the extension tab.</li>
+<li>If needed, sign in to GitHub through VS Code.</li>
+</ol>
+<h3 id="enable-or-disable-github-copilot">Enable or disable GitHub Copilot</h3>
+<ul>
+<li>In the bottom status bar, use the <strong>Copilot status icon</strong>.</li>
+<li>Choose:
+<ul>
+<li><strong>Enable completions</strong></li>
+<li><strong>Disable completions globally</strong></li>
+<li><strong>Disable completions for the current language</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="manage-inline-suggestions">Manage inline suggestions</h3>
+<ul>
+<li>Go to <strong>File → Preferences → Settings</strong>.</li>
+<li>Select <strong>Extensions → GitHub Copilot</strong>.</li>
+<li>Under <strong>Editor: Enable Auto Completions</strong>, check or uncheck to enable/disable inline suggestions.</li>
+<li>You can also configure language-specific settings.</li>
+</ul>
+<h2 id="troubleshoot-github-copilot-in-vs-code">Troubleshoot GitHub Copilot in VS Code</h2>
+<h3 id="view-logs">View logs</h3>
+<ul>
+<li>Open the command palette:
+<ul>
+<li><strong>Shift+Cmd+P</strong> (Mac)</li>
+<li><strong>Ctrl+Shift+P</strong> (Windows/Linux)</li>
+</ul>
+</li>
+<li>Run:
+<ul>
+<li><strong>Developer: Open Log File</strong>, or</li>
+<li><strong>Developer: Open Extensions Logs Folder</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="view-electron-logs">View Electron logs</h3>
+<ul>
+<li>If regular logs don’t show errors:
+<ul>
+<li>Select <strong>Help → Toggle Developer Tools</strong>.</li>
+</ul>
+</li>
+</ul>
+<h3 id="diagnose-network-issues-firewalls-proxies">Diagnose network issues (firewalls, proxies)</h3>
+<ul>
+<li>Open the command palette again.</li>
+<li>Search for <strong>Diagnostics</strong>.</li>
+<li>Select <strong>GitHub Copilot: Collect Diagnostics</strong>.</li>
+<li>This opens a new editor with troubleshooting information.</li>
+</ul>
 
