@@ -14,7 +14,6 @@
 <li>Transparency: AI systems should be understandable.</li>
 <li>Accountability: People should be accountable for AI systems.</li>
 </ul>
-<hr>
 <h2 id="fairness">Fairness</h2>
 <p>Detect bias and mitigate unfair impacts such as:</p>
 <ul>
@@ -24,7 +23,6 @@
 <li>Monitoring model performance across user segments.</li>
 <li>Implementing controls to override unfair model scores.</li>
 </ul>
-<hr>
 <h2 id="privacy-and-security">Privacy and security</h2>
 <h3 id="user-consent">User Consent:</h3>
 <ul>
@@ -45,7 +43,6 @@
 <li>Limit employee access to sensitive models/data.</li>
 <li>Classify data by sensitivity, rotate keys often, back them up securely, and run regular security audits.</li>
 </ul>
-<hr>
 <h2 id="inclusiveness">Inclusiveness</h2>
 <ul>
 <li>AI must work fairly for all people, across different backgrounds, abilities, and regions.</li>
@@ -61,7 +58,6 @@
 <li>Translation tools supporting regional dialects.</li>
 <li>Working offline and with limited connectivity and computing resources.</li>
 </ul>
-<hr>
 <h2 id="transparency">Transparency</h2>
 <ul>
 <li>AI systems must be understandable and interpretable.</li>
@@ -77,7 +73,6 @@
 <li>Build testing dashboards.</li>
 <li>Maintain strong logging and auditing practices.</li>
 </ul>
-<hr>
 <h2 id="accountability">Accountability</h2>
 <ul>
 <li>People, not AI, are responsible for the behavior and impact of AI systems.</li>
