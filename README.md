@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GH-300</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="responsible-ai">Responsible AI</h1>
+---
+
+<h1 id="responsible-ai">Responsible AI</h1>
 <p>Responsible AI - Responsible AI is an approach to developing, assessing, and deploying artificial intelligent systems in a safe, trustworthy, and ethical way.</p>
 <h2 id="principles-of-responsible-ai">6 Principles of responsible AI</h2>
 <ul>
@@ -151,7 +145,4 @@
 <li>Use command palette → <strong>Generate Unit Tests</strong>.</li>
 <li>Copilot creates test cases to improve reliability.</li>
 </ul>
-</div>
-</body>
 
-</html>
