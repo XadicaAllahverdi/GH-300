@@ -1,9 +1,48 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GH-300</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#responsible-ai">Responsible AI</a>
+<ul>
+<li><a href="#principles-of-responsible-ai">6 Principles of responsible AI</a></li>
+<li><a href="#fairness">Fairness</a></li>
+<li><a href="#privacy-and-security">Privacy and security</a></li>
+<li><a href="#inclusiveness">Inclusiveness</a></li>
+<li><a href="#transparency">Transparency</a></li>
+<li><a href="#accountability">Accountability</a></li>
+<li><a href="#additional-information">Additional Information</a></li>
+</ul>
+</li>
+<li><a href="#interact-with-copilot">Interact with Copilot</a>
+<ul>
+<li><a href="#inline-suggestions">Inline suggestions</a></li>
+<li><a href="#command-palette">Command palette</a></li>
+<li><a href="#copilot-chat">Copilot chat</a></li>
+<li><a href="#inline-chat">Inline chat</a></li>
+<li><a href="#comments-to-code">Comments to code</a></li>
+<li><a href="#multiple-suggestions">Multiple suggestions</a></li>
+<li><a href="#explanations">Explanations</a></li>
+<li><a href="#automated-test-generation">Automated test generation</a></li>
+</ul>
+</li>
+</ul>
 
-<h1 id="responsible-ai">Responsible AI</h1>
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="responsible-ai">Responsible AI</h1>
 <p>Responsible AI - Responsible AI is an approach to developing, assessing, and deploying artificial intelligent systems in a safe, trustworthy, and ethical way.</p>
 <h2 id="principles-of-responsible-ai">6 Principles of responsible AI</h2>
 <ul>
@@ -146,3 +185,8 @@
 <li>Copilot creates test cases to improve reliability.</li>
 </ul>
 
+    </div>
+  </div>
+</body>
+
+</html>
