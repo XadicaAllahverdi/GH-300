@@ -295,4 +295,70 @@ Example: “Write a factorial function.”</li>
 </ul>
 <p>These steps help Copilot respond more accurately and efficiently.</p>
 <hr>
+<h1 id="github-copilot-large-language-models-llms">GitHub Copilot Large Language Models (LLMs)</h1>
+<h2 id="what-are-llms">What Are LLMs?</h2>
+<p>Large Language Models (LLMs) are AI systems trained to understand, generate, and manipulate human language. They use massive datasets and neural networks with millions or billions of parameters.</p>
+<h3 id="key-characteristics">Key Characteristics</h3>
+<ul>
+<li>
+<p><strong>Volume of training data</strong><br>
+LLMs learn from vast, diverse text sources, giving them broad language and context understanding.</p>
+</li>
+<li>
+<p><strong>Contextual understanding</strong><br>
+They generate coherent, context-aware text, completing sentences, paragraphs, or entire documents.</p>
+</li>
+<li>
+<p><strong>Machine learning and AI integration</strong><br>
+Built on deep neural networks, tuned through large-scale training to predict and generate text effectively.</p>
+</li>
+<li>
+<p><strong>Versatility</strong><br>
+LLMs can be adapted to many tasks, languages, and domains.</p>
+</li>
+</ul>
+<hr>
+<h2 id="role-of-llms-in-github-copilot--prompting">Role of LLMs in GitHub Copilot &amp; Prompting</h2>
+<p>GitHub Copilot uses LLMs to provide <strong>context-aware</strong> code suggestions by analyzing:</p>
+<ul>
+<li>The current file</li>
+<li>Adjacent code before/after the cursor</li>
+<li>Other open files/tabs</li>
+</ul>
+<p>This enables accurate, relevant code completions that boost developer productivity.</p>
+<hr>
+<h2 id="fine-tuning-llms">Fine-Tuning LLMs</h2>
+<h3 id="what-is-fine-tuning">What Is Fine-Tuning?</h3>
+<p>Fine-tuning adapts a <strong>pretrained LLM</strong> to a <strong>specific task or domain</strong> by training it on a smaller target dataset.</p>
+<p><img src="https://learn.microsoft.com/en-us/training/github/introduction-prompt-engineering-with-github-copilot/media/4-fine-tune-in-large-language-models-diagram.png" alt="Fine-tuning Diagram"></p>
+<h3 id="why-fine-tune">Why Fine-Tune?</h3>
+<ul>
+<li>Improves task-specific accuracy</li>
+<li>Retains the knowledge from large pretrained models</li>
+<li>Allows specialization with much less data</li>
+</ul>
+<hr>
+<h2 id="lora-fine-tuning">LoRA Fine-Tuning</h2>
+<h3 id="what-is-lora">What Is LoRA?</h3>
+<p><strong>LoRA (Low-Rank Adaptation)</strong> is an efficient alternative to full-model fine-tuning.</p>
+<h3 id="how-it-works">How It Works</h3>
+<ul>
+<li>Adds <strong>small trainable matrices</strong> into each layer of the pretrained model</li>
+<li>Leaves the original model weights <strong>unchanged</strong></li>
+<li>Reduces compute and memory usage</li>
+</ul>
+<h3 id="benefits">Benefits</h3>
+<ul>
+<li>Faster and cheaper than full fine-tuning</li>
+<li>More effective than adapters or prefix-tuning</li>
+<li>“Work smarter, not harder” approach</li>
+<li>Ideal for adapting large models like those powering Copilot</li>
+</ul>
+<hr>
+<h2 id="summary">Summary</h2>
+<ul>
+<li>LLMs are the foundation of GitHub Copilot.</li>
+<li>Fine-tuning adapts these models for specific tasks and coding scenarios.</li>
+<li><strong>LoRA</strong> is the modern, efficient method GitHub uses for specialized, high-quality code generation.</li>
+</ul>
 
