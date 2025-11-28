@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="🚀-github-copilot--prompt-engineering-—-summary">🚀 GitHub Copilot &amp; Prompt Engineering — Summary</h1>
 <p>GitHub Copilot, powered by OpenAI, accelerates software development by assisting with everything from initial code creation to production-ready implementations. It understands project context through training on natural language and billions of lines of publicly available code, enabling context-aware suggestions and automating repetitive tasks.</p>
 <p>To get the most out of Copilot, prompt engineering is essential. The clarity and strategy of your prompts determine how accurate, fast, and effective Copilot’s responses will be.</p>
