@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="github-copilot-spaces-—-summary">GitHub Copilot Spaces — Summary</h2>
 <h3 id="overview">Overview</h3>
 <p><strong>GitHub Copilot Spaces</strong> provide a focused way to work with AI by grounding responses in a <strong>curated, tightly scoped context</strong>. Unlike general Copilot Chat, Spaces are designed for <strong>depth, consistency, and reproducibility</strong> rather than broad exploration.</p>
