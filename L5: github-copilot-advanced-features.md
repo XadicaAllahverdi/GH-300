@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="introduction-github-copilot-features-—-summary">Introduction: GitHub Copilot Features — Summary</h2>
 <p><strong>GitHub Copilot</strong> is an AI-powered coding partner that helps developers write code faster and more efficiently by providing intelligent autocomplete suggestions and interactive, natural-language assistance directly in the editor.</p>
 <p>Copilot analyzes the current file along with related project files and comments to generate context-aware suggestions, ranging from single lines of code to complete functions.</p>
