@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="github-copilot-across-environments-ide-chat-github.com-and-command-line-—-summary">GitHub Copilot Across Environments: IDE, Chat, <a href="http://GitHub.com">GitHub.com</a>, and Command Line — Summary</h2>
 <p>GitHub Copilot is an advanced AI-powered coding assistant designed to significantly improve developer productivity across <strong>the entire development lifecycle</strong>. By automating repetitive tasks, providing intelligent code completion, and generating full code blocks, Copilot enables developers to focus on higher-level problem solving, design, and innovation—from writing the first line of code to completing pull requests.</p>
 <p>Copilot is built to <strong>meet developers where they work</strong>, offering flexible interaction modes that integrate seamlessly into different environments. Understanding how and when to use these interaction methods is essential to unlocking Copilot’s full potential and accelerating the delivery of high-quality code.</p>
