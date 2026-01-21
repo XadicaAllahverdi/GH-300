@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="management-and-customization-considerations-with-github-copilot">Management and Customization Considerations with GitHub Copilot</h1>
 <p>This lesson explores how GitHub Copilot plans support <strong>security, privacy, compliance, and organizational control</strong>. It explains the management policies and customization features available across Free, Pro, Business, and Enterprise plans—helping individuals and organizations choose the right level of governance and flexibility.</p>
 <hr>
