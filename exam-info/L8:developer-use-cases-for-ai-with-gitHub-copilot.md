@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="developer-use-cases-for-ai-with-github-copilot">Developer Use Cases for AI with GitHub Copilot</h1>
 <h2 id="part-1-—-boost-developer-productivity-with-ai">Part 1 — Boost Developer Productivity with AI</h2>
 <h2 id="overview">Overview</h2>
